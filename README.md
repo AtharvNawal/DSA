@@ -1,4 +1,4 @@
-# data-structures
+# Data-Structures
 
 Implemented following Data Structures using C Language :
 1.   Arrays
